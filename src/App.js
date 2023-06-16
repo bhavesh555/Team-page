@@ -1,11 +1,16 @@
-import React from "react";
-import "./style.css";
+import React from "react"; 
+import Services from "./components/Services";
+import './App.css';
+import { useState, useEffect } from "react"; 
 
-export default function App() {
-  return (
+function App() {
+   
+   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+     <Services />
     </div>
-  );
+   )
+ 
 }
+
+export default App;
