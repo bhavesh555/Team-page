@@ -23,9 +23,9 @@ function Services () {
                   <div class="team-item">
                   
                       <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team1a.jpg" class="team-img" alt="pic" />                   
-                      <h3>JOHNATHAN HAWKINS</h3>            
-                      <div class="team-info"><p>Head of SEO</p></div>
-                      <p>Johnathan is our  co-founder and has developed search strategies for a variety of clients from international brands to medium sized businesses for over five years.</p>
+                      <h3>Shriyansh Gaur</h3>            
+                      <div class="team-info"><p>Head Ace Backend</p></div>
+                      <p></p>
                   
                       <ul class="team-icon">
                       
@@ -57,11 +57,11 @@ function Services () {
                   
                       <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team2a.jpg" class="team-img" alt="pic" />
                      
-                      <h3>ALEXANDRA SMITHS</h3>
+                      <h3>Bhavesh Chandani</h3>
                       
-                      <div class="team-info"><p>SEO Specialist</p></div>
+                      <div class="team-info"><p>Backend Team</p></div>
 
-                      <p>Graduating with a degree in Spanish and English, Alexandra has always loved writing and now she’s lucky enough to do it as part of her new job inside our agency.</p>
+                      <p>G.</p>
                   
                       <ul class="team-icon">
                       
@@ -84,11 +84,11 @@ function Services () {
                   
                       <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team3a.jpg" class="team-img" alt="pic" />
                      
-                      <h3>ELISA JOHANSON</h3>
+                      <h3>Mukesh Sahu</h3>
                       
-                      <div class="team-info"><p>Marketing Manager</p></div>
+                      <div class="team-info"><p>Backend Team</p></div>
 
-                      <p>Elisa first fell in love with digital marketing at the university. He loves to learn, and looks forward to being part of this new exciting industry for many years.</p>
+                      <p>Elis.</p>
                   
                       <ul class="team-icon">
                       
