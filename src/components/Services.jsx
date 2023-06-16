@@ -22,7 +22,7 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team1a.jpg" class="team-img" alt="pic" />                   
+                      <img src="https://static.vecteezy.com/system/resources/thumbnails/002/002/427/small/man-avatar-character-isolated-icon-free-vector.jpg" class="team-img" alt="pic" />                   
                       <h3>Shriyansh Gaur</h3>            
                       <div class="team-info"><p>Head Ace Backend</p></div>
                       <p></p>
@@ -55,7 +55,7 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team2a.jpg" class="team-img" alt="pic" />
+                      <img src="https://static.vecteezy.com/system/resources/thumbnails/002/002/427/small/man-avatar-character-isolated-icon-free-vector.jpg" class="team-img" alt="pic" />
                      
                       <h3>Bhavesh Chandani</h3>
                       
@@ -82,7 +82,7 @@ function Services () {
 
                   <div class="team-item">
                   
-                      <img src="https://demo.epic-webdesign.com/tf-pacifico/v1/images/team3a.jpg" class="team-img" alt="pic" />
+                      <img src="https://static.vecteezy.com/system/resources/thumbnails/002/002/427/small/man-avatar-character-isolated-icon-free-vector.jpg" class="team-img" alt="pic" />
                      
                       <h3>Mukesh Sahu</h3>
                       
